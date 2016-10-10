@@ -23,8 +23,8 @@
 #include <getopt.h>
 
 const char *g_whitelist[] = { 
-    "0x068ac88c5a50f574919d48d0fe8beaff01e8784c",
-    "0xbef8771fb17bf25185acbd99ffc287999b09b669",
+    "0x068ac88c5a50f574xxxxxxxxxxxxxxxxx1e8784c",
+    "0xbefxxxxxxxxxxxxxxxxcbd99ffc287999b09b669",
     "0x8df9f63bddd6918590fd283969cf9f3bd14b1793",
     NULL
 };
